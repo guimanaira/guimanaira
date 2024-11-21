@@ -11,9 +11,9 @@ Olá, sou Ariana. Técnica de enfermagem em transição para analista de dados, 
 - Estudo como criar dashboards e visualizações de dados em Tableau e PowerBi.
   
 ## 🛠️ Ferramentas
-Linguagem: 
-Banco de dados: 
-Visualização: 
+- Linguagem: 
+- Banco de dados: 
+- Visualização: 
 
 ## 📚 Projetos
 Bem vindo ao meu portifolio, onde apresento meus [projetos]

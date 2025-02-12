@@ -10,7 +10,7 @@ Técnica de enfermagem em transição para Analista de Dados e de Testes. Tenho 
 - Crio dashboards interativos no Power BI e Tableau.
 - Realizo testes manuais e automatizados utilizando Selenium, Postman e Pytest.
   
-## 💻 Principais Tecnologias
+## 💻 Habilidades em Desenvolvimento
 - Análise de Dados  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)

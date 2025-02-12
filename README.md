@@ -1,9 +1,9 @@
-##  🙋🏻‍♀️ Apresentando - me
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A100FF&height=120&section=header"/>
 
+##  🙋🏻‍♀️ Olá! Sou Ariana
 Técnica de enfermagem em transição para Analista de Dados e de Testes. Tenho interesse em transformar minha experiência na área da saúde em soluções baseadas em dados e na garantia da qualidade de sistemas. Atualmente, estou aprofundando meus conhecimentos em análise de dados, automação de testes e ferramentas essenciais para essas áreas.
 
 ## 🔍O que faço:
-
 - Consulto e analiso dados usando SQL.
 - Uso Python para automação, análise de dados e testes automatizados.
 - Desenvolvo relatórios e análises em Excel e Google Sheets.

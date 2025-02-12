@@ -10,15 +10,14 @@ Olá, sou Ariana. Técnica de enfermagem em transição para analista de dados, 
 - Crio relatórios e análises em ferramentas como Excel e Google Sheets.
 - Estudo como criar dashboards e visualizações de dados em Tableau e PowerBi.
   
-## 🛠️ Ferramentas
-- Linguagem: 
-- Banco de dados: 
-- Visualização: 
+## 💻 Principais Tecnologias
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## 📚 Projetos
 Bem vindo ao meu portifolio, onde apresento meus [projetos]
 
 ## 👋🏻 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arianagmcosta/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ariana.guimaraes@gmail.com)
 

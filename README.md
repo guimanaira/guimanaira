@@ -29,7 +29,7 @@ Aqui apresento meus projetos de análise de dados e testes de software.
 
 | Python             | **                 | **                 | **                 |
 |--------------------|--------------------|--------------------|--------------------|
-|[Sistema Bancario](https://github.com/guimanaira/guimanaira/edit/main/README.md)    |                    |                    |                    |
+|[Sistema Bancario](https://github.com/guimanaira/sistema_bancario_python.git)      |                    |                    |                    |
 |                    |                    |                    |                    |
 |                    |                    |                    |                    |
 |                    |                    |                    |                    |

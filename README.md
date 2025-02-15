@@ -25,7 +25,16 @@ Técnica de enfermagem em transição para Analista de Dados e de Testes. Tenho 
 
 
 ## 📚 Projetos
-Aqui apresento meus projetos de análise de dados e testes de software. [projetos]
+Aqui apresento meus projetos de análise de dados e testes de software. 
+
+| Python             | **                 | **                 | **                 |
+|--------------------|--------------------|--------------------|--------------------|
+|[Sistema Bancario](https://github.com/guimanaira/guimanaira/edit/main/README.md)    |                    |                    |                    |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
+
+
 
 ## 👋🏻 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arianagmcosta/)

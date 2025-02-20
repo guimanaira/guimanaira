@@ -38,5 +38,5 @@ Aqui apresento meus projetos de análise de dados e testes de software.
 
 ## 👋🏻 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arianagmcosta/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ariana.guimaraes@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]((mailto:ariana.guimaraes@gmail.com)
 

@@ -57,6 +57,10 @@ for item in my_journey:
     print("-" * 40)
 
 ```
+
+## 🏅 Badges & Certifications
+
+
 ## 📌 Featured Projects
 
 

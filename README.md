@@ -10,7 +10,7 @@ As an aspiring professional in the field of Data, Cloud and Artificial Intellige
 I have a special interest in exploring the potential of Generative AI to create innovative experiences and automate processes in an ethical and efficient way.
 My focus is on continuous learning, developing data-driven solutions, and applying best practices that connect technology with people — generating real value and positive impact.
 
-## 💻 Skills Stack
+## 💻 Skill Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="30" alt="notion"  />
   <img width="8" />

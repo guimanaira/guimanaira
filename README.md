@@ -14,9 +14,9 @@ As a Software Developer with a keen eye for design, I bridge the gap between tec
   <img width="8" />
   <img src="https://assets.dio.me/Twhig98beWgE_Op6hPQeS26qk1F_oJuqd0_i_lbzA7g/f:webp/q:80/w:84/L3NraWxscy82M2VmMmM1MC0wZjA3LTQ1NGUtOGU0YS0xN2UxZmY1OTVjMTgucG5n" height="30" alt="IA logo"  />
   <img width="8" />
-  <img src="https://assets.dio.me/yVuc2IywUu_I8OBj82SJ759wHhy0KugEt_0YH99PD4Y/f:webp/q:80/w:84/L3NraWxscy8xOTQ5MTgwZC1jNDI0LTRlZTAtYjAxOC1mNDdiYzZiYjI3NWYucG5n" height="30" alt="excel logo"  />
-  <img width="8" />
   <img src="https://assets.dio.me/ljiEbZGcF7nnbnvsX58CvHYW4MBKAgCeRY4JvH122v8/f:webp/q:80/w:84/L3NraWxscy9mMzExMGU4Zi1kMjViLTQ1MWQtOWIwMy1iZGQ2YTIyMTNjOTEucG5n" height="30" alt="copilot logo"  />
+  <img width="8" />
+  <img src="https://assets.dio.me/yVuc2IywUu_I8OBj82SJ759wHhy0KugEt_0YH99PD4Y/f:webp/q:80/w:84/L3NraWxscy8xOTQ5MTgwZC1jNDI0LTRlZTAtYjAxOC1mNDdiYzZiYjI3NWYucG5n" height="30" alt="excel logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices" />
   <img width="8" />

@@ -4,9 +4,11 @@
   </a>
 </div>
 
-## I'm Ariana Guimarães — Data Analystic & IA Enthusiast 👩‍💻✨
+## I'm Ariana Guimarães — Data Analystic, Cloud & IA Enthusiast 👩‍💻✨
 
-As a Software Developer with a keen eye for design, I bridge the gap between technical implementation and user-centric solutions. I focus on writing clean, scalable code to build intuitive and accessible interfaces that effectively solve problems and provide meaningful value.
+As an aspiring professional in the field of Data, Cloud and Artificial Intelligence, I seek to combine analytical thinking with creativity to transform information into intelligent and accessible solutions.
+I have a special interest in exploring the potential of Generative AI to create innovative experiences and automate processes in an ethical and efficient way.
+My focus is on continuous learning, developing data-driven solutions, and applying best practices that connect technology with people — generating real value and positive impact.
 
 ## 💻 Skills Stack
 <div align="left">

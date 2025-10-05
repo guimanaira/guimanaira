@@ -8,7 +8,7 @@
 
 As a Software Developer with a keen eye for design, I bridge the gap between technical implementation and user-centric solutions. I focus on writing clean, scalable code to build intuitive and accessible interfaces that effectively solve problems and provide meaningful value.
 
-## 💻 Tech Stack
+## 💻 Skills Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="30" alt="notion"  />
   <img width="8" />

@@ -60,8 +60,6 @@ for item in my_journey:
 
 ```
 
-## 🏅 Badges & Certifications
-
 
 ## 📌 Featured Projects
 <table style="text-align: center;">
@@ -70,14 +68,24 @@ for item in my_journey:
     <td> Skills </td>
     <td> Skills </td>
     </tr>
-    <tr>
+   <tr>
+    <td> ♨️ Santander - Code Girls 2025 </td>
     <td> . </td>
+    <td> . </td>
+    </tr>
+    <tr>
+    <td> ♨️ Santander - Excel com Inteligência Artificial </td>
+    <td> . </td>
+    <td>. </td>
+  </tr>
+   <tr>
+    <td> ♨️ Universia - Fundamentos de IA Generativa </td>
     <td> . </td>
     <td>. </td>
   </tr>
 </table>
 
-
+## 🏅 Badges & Certifications
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">

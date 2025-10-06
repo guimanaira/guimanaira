@@ -28,6 +28,8 @@ My focus is on continuous learning, developing data-driven solutions, and applyi
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices"/>
   <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure"/>
+  <img width="8"/>
 </div>
 
 ## 🎯 My Journey

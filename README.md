@@ -73,9 +73,7 @@ for item in my_journey:
     <td> . </td>
     <td> . </td>
     </tr>
-    <tr>
-    <td> ♨️ Santander - Excel com Inteligência Artificial </td>
-    <td> . </td>
+    <td> <a href="https://github.com/guimanaira/Repositorio_Dados/tree/main/Bootcamp_Santander-Excel_com_IA">♨️ Santander - Excel com Inteligência Artificial</a> </td>
     <td>. </td>
   </tr>
    <tr>
@@ -84,6 +82,8 @@ for item in my_journey:
     <td>. </td>
   </tr>
 </table>
+
+
 
 ## 🏅 Badges & Certifications
 

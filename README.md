@@ -74,8 +74,11 @@ for item in my_journey:
     <td> . </td>
     </tr>
     <td> <a href="https://github.com/guimanaira/Repositorio_Dados/tree/main/Bootcamp_Santander-Excel_com_IA">♨️ Santander - Excel com Inteligência Artificial</a> </td>
-    <td>. </td>
-  </tr>
+    <td>
+    <img src="https://assets.dio.me/yVuc2IywUu_I8OBj82SJ759wHhy0KugEt_0YH99PD4Y/f:webp/q:80/w:84/L3NraWxscy8xOTQ5MTgwZC1jNDI0LTRlZTAtYjAxOC1mNDdiYzZiYjI3NWYucG5n" height="25" alt="excel logo"/>
+    <img src="https://assets.dio.me/ljiEbZGcF7nnbnvsX58CvHYW4MBKAgCeRY4JvH122v8/f:webp/q:80/w:84/L3NraWxscy9mMzExMGU4Zi1kMjViLTQ1MWQtOWIwMy1iZGQ2YTIyMTNjOTEucG5n" height="25" alt="copilot logo"/>
+    <img width="8"/>
+    </td>
    <tr>
     <td> ♨️ Universia - Fundamentos de IA Generativa </td>
     <td> . </td>

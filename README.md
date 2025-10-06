@@ -64,6 +64,18 @@ for item in my_journey:
 
 
 ## 📌 Featured Projects
+<table style="text-align: center;">
+  <tr>
+    <td> Projects </td>
+    <td> Skills </td>
+    <td> Skills </td>
+    </tr>
+    <tr>
+    <td> . </td>
+    <td> . </td>
+    <td>. </td>
+  </tr>
+</table>
 
 
 

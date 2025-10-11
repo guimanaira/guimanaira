@@ -105,7 +105,7 @@ Each badge represents a milestone in my journey of learning and professional gro
 </details>
 
 <details>
-  <summary>🧠 <strong>Artificial Inteligence (IA)</strong></summary>
+  <summary>🧠 <strong>Artificial Intelligence (IA)</strong></summary>
 <table style="text-align: center;">
 <p align="center">
  

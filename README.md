@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A100FF&height=120&section=header"/>
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/31f8aed1-085f-4823-b4a7-e70f73e039c9" /><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A100FF&height=120&section=header"/>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=DA20F7&background=48FF3400&center=true&width=435&lines=Hello%2C+World!" alt="Typing SVG" />
   </a>
@@ -98,9 +98,10 @@ Each badge represents a milestone in my journey of learning and professional gro
   <summary>📊 <strong> Data </strong></summary>
 <table style="text-align: center;">
 <p align="center">
-  <a href="https://www.credly.com/badges/1d856a40-f896-40d9-8bd0-2b86504693bd/public_url" alt="DataFundamentals">
+  <a href="https://www.credly.com/badges/1d856a40-f896-40d9-8bd0-2b86504693bd/public_url">
   <img src="https://images.credly.com/size/220x220/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" height="100" alt="Data Fundamentals"/></a>
-  <img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=white" alt="Power BI" />
+  <a href="https://www.credly.com/badges/90acfd60-f2d1-4979-9b78-166e43868ed1/public_url">
+  <img src="https://images.credly.com/size/220x220/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob" height="100" alt="BigData" /></a>
   <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-orange?logo=python&logoColor=white" alt="Python" />
 </p>

@@ -89,11 +89,61 @@ for item in my_journey:
 
 
 
-## 🏅 Badges & Certifications
+##  🏅 Badges
+
+My collection of badges earned in Data, Artificial Intelligence (AI), and Cloud Computing.
+Each badge represents a milestone in my journey of learning and professional growth. 🚀
+
+<details>
+  <summary>📊 <strong> Data </strong></summary>
+<table style="text-align: center;">
+<p align="center">
+  <a href="https://www.credly.com/badges/1d856a40-f896-40d9-8bd0-2b86504693bd/public_url" alt="DataFundamentals">
+  <img src="https://images.credly.com/size/220x220/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" height="100" alt="Data Fundamentals"/></a>
+  <img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-orange?logo=python&logoColor=white" alt="Python" />
+</p>
+</table>
+</details>
+
+<details>
+  <summary>🧠 <strong>Artificial Inteligence (IA)</strong></summary>
+<table style="text-align: center;">
+<p align="center">
+  <a href="https://www.credly.com/badges/1d856a40-f896-40d9-8bd0-2b86504693bd/public_url" alt="DataFundamentals">
+  <img src="https://images.credly.com/size/220x220/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" height="100" alt="Data Fundamentals"/></a>
+  <img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-orange?logo=python&logoColor=white" alt="Python" />
+</p>
+</table>
+</details>
+
+<details>
+  <summary>☁️ <strong>Cloud Computing</strong></summary>
+<table style="text-align: center;">
+<p align="center">
+  <a href="https://www.credly.com/badges/1d856a40-f896-40d9-8bd0-2b86504693bd/public_url" alt="DataFundamentals">
+  <img src="https://images.credly.com/size/220x220/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" height="100" alt="Data Fundamentals"/></a>
+  <img src="https://img.shields.io/badge/PowerBI-yellow?logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-orange?logo=python&logoColor=white" alt="Python" />
+</p>
+</table>
+</details>
+
+### 🌟 Soon...
+Additional badges will be added as I continue to advance in my studies and certifications! 🚀
+
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
 

@@ -137,6 +137,3 @@ Additional badges will be added as I continue to advance in my studies and certi
 </picture>
 
 
-
-
-

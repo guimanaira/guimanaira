@@ -6,9 +6,9 @@
 
 ## I'm Ariana Costa — Data Analystic, Cloud & IA Enthusiast 👩‍💻✨
 
-As an aspiring professional in the field of Data, Cloud and Artificial Intelligence, I seek to combine analytical thinking with creativity to transform information into intelligent and accessible solutions.
-I have a special interest in exploring the potential of Generative AI to create innovative experiences and automate processes in an ethical and efficient way.
-My focus is on continuous learning, developing data-driven solutions, and applying best practices that connect technology with people — generating real value and positive impact.
+I'm a purpose-driven professional with over 10 years of healthcare experience, now transitioning into Data Analysis. My goal is to combine hands-on expertise with data and technology to transform information into intelligent, human-centered decisions.
+I'm building skills in Excel, Power BI, and Data Analytics—focused on generating strategic insights and evidence-based solutions that drive results and create positive impact. With an analytical, collaborative, and results-oriented approach, I want to contribute to teams that value innovation, continuous learning, and digital transformation in healthcare.
+I'm also deeply interested in Data, Cloud, and Artificial Intelligence. I'm particularly excited about leveraging Generative AI to create innovative experiences and automate processes ethically and efficiently—always connecting technology and people to generate real value.
 
 ## 💻 Skill Stack
 <div align="left">

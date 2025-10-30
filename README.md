@@ -22,6 +22,7 @@ I'm also deeply interested in Data, Cloud, and Artificial Intelligence. I'm part
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="40" alt="googlecolab" />
   <img width="8"/>
+  <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python"/>
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>

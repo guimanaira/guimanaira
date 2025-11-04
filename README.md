@@ -12,24 +12,29 @@ I'm also deeply interested in Data, Cloud, and Artificial Intelligence. I'm part
 
 ## 💻 Skill Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="notion"/>
+   <a href="https://www.notion.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="notion"/></a>
   <img width="8"/>
-  <img src="https://assets.dio.me/Twhig98beWgE_Op6hPQeS26qk1F_oJuqd0_i_lbzA7g/f:webp/q:80/w:84/L3NraWxscy82M2VmMmM1MC0wZjA3LTQ1NGUtOGU0YS0xN2UxZmY1OTVjMTgucG5n" height="40" alt="IA logo"/>
+   <a href="https://copilot.microsoft.com/">
+  <img src="https://assets.dio.me/ljiEbZGcF7nnbnvsX58CvHYW4MBKAgCeRY4JvH122v8/f:webp/q:80/w:84/L3NraWxscy9mMzExMGU4Zi1kMjViLTQ1MWQtOWIwMy1iZGQ2YTIyMTNjOTEucG5n" height="40" alt="copilot logo"/></a>
   <img width="8"/>
-  <img src="https://assets.dio.me/ljiEbZGcF7nnbnvsX58CvHYW4MBKAgCeRY4JvH122v8/f:webp/q:80/w:84/L3NraWxscy9mMzExMGU4Zi1kMjViLTQ1MWQtOWIwMy1iZGQ2YTIyMTNjOTEucG5n" height="40" alt="copilot logo"/>
+   <a href="https://www.microsoft.com/pt-br/">
+  <img src="https://assets.dio.me/yVuc2IywUu_I8OBj82SJ759wHhy0KugEt_0YH99PD4Y/f:webp/q:80/w:84/L3NraWxscy8xOTQ5MTgwZC1jNDI0LTRlZTAtYjAxOC1mNDdiYzZiYjI3NWYucG5n" height="40" alt="excel logo"/></a>
   <img width="8"/>
-  <img src="https://assets.dio.me/yVuc2IywUu_I8OBj82SJ759wHhy0KugEt_0YH99PD4Y/f:webp/q:80/w:84/L3NraWxscy8xOTQ5MTgwZC1jNDI0LTRlZTAtYjAxOC1mNDdiYzZiYjI3NWYucG5n" height="40" alt="excel logo"/>
-  <img width="8"/>
+   <a href="https://colab.google/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="40" alt="googlecolab" />
   <img width="8"/>
   <a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python"/></a>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
+  <a href="https://www.mongodb.com/pt-br">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/></a>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices"/>
+   <a href="https://aws.amazon.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices"/></a>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure"/>
+   <a href="https://azure.microsoft.com//">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure"/></a>
   <img width="8"/>
 </div>
 

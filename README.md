@@ -127,16 +127,16 @@ Each badge represents a milestone in my journey of learning and professional gro
   <summary>☁️ <strong>Cloud Computing</strong></summary>
 <table style="text-align: center;">
 <p align="center">
-  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/b9l8r9td">
-  <img src="https://learn.microsoft.com/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" height="100" alt="azure"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/cywzupm9">
+  <img src="https://learn.microsoft.com/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" height="100" alt="azurefundamentals"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/fqzkwqkx">
-  <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg" height="100" alt="azure"/></a>
-  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/fqzkwqkx">
-  <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg" height="100" alt="azure"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg" height="100" alt="azurefundamentals"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/hzyqhrf8">
+  <img src="https://learn.microsoft.com/training/achievements/describe-azure-management-governance.svg" height="100" alt="azuregovernance"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/hzyklea8">
-  <img src="https://learn.microsoft.com/training/achievements/researcher-cloud-security-cost-management.svg" height="100" alt="azure"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/researcher-cloud-security-cost-management.svg" height="100" alt="azuresecurity"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/9rnpzebu">
-  <img src="https://learn.microsoft.com/training/achievements/control-spending-manage-bills.svg" height="100" alt="azure"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/control-spending-manage-bills.svg" height="100" alt="azurecontrolbills"/></a>
 </p>
 </table>
 </details>

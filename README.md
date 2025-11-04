@@ -108,7 +108,7 @@ Each badge represents a milestone in my journey of learning and professional gro
 <table style="text-align: center;">
 <p align="center">
   <a href="https://www.credly.com/badges/1d856a40-f896-40d9-8bd0-2b86504693bd/public_url">
-  <img src="https://images.credly.com/size/220x220/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" height="100" alt="Data Fundamentals"/></a>
+  <img src="https://images.credly.com/size/220x220/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" height="80" alt="Data Fundamentals"/></a>
 </p>
 </table>
 </details>
@@ -118,7 +118,7 @@ Each badge represents a milestone in my journey of learning and professional gro
 <table style="text-align: center;">
 <p align="center">
    <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/b9l8r9td">
-  <img src="https://learn.microsoft.com/training/achievements/get-started-with-microsoft-365-copilot.svg" height="100" alt="Copilot"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/get-started-with-microsoft-365-copilot.svg" height="80" alt="Copilot"/></a>
 </p>
 </table>
 </details>
@@ -128,15 +128,15 @@ Each badge represents a milestone in my journey of learning and professional gro
 <table style="text-align: center;">
 <p align="center">
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/cywzupm9">
-  <img src="https://learn.microsoft.com/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" height="100" alt="azurefundamentals"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" height="80" alt="azurefundamentals"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/fqzkwqkx">
-  <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg" height="100" alt="azurefundamentals"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg" height="80" alt="azurefundamentals"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/hzyqhrf8">
-  <img src="https://learn.microsoft.com/training/achievements/describe-azure-management-governance.svg" height="100" alt="azuregovernance"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/describe-azure-management-governance.svg" height="80" alt="azuregovernance"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/hzyklea8">
-  <img src="https://learn.microsoft.com/training/achievements/researcher-cloud-security-cost-management.svg" height="100" alt="azuresecurity"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/researcher-cloud-security-cost-management.svg" height="80" alt="azuresecurity"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/9rnpzebu">
-  <img src="https://learn.microsoft.com/training/achievements/control-spending-manage-bills.svg" height="100" alt="azurecontrolbills"/></a>
+  <img src="https://learn.microsoft.com/training/achievements/control-spending-manage-bills.svg" height="80" alt="azurecontrolbills"/></a>
 </p>
 </table>
 </details>
@@ -146,7 +146,7 @@ Each badge represents a milestone in my journey of learning and professional gro
 <table style="text-align: center;">
 <p align="center">
   <a href="https://www.credly.com/badges/5f2b6b72-5a4b-4f4d-8325-0ac2f5b834f8">
-  <img src="https://images.credly.com/size/340x340/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png" height="100" alt="Servicenow Fundamentals"/></a>
+  <img src="https://images.credly.com/size/340x340/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png" height="80" alt="Servicenow Fundamentals"/></a>
 </p>
 </table>
 </details>

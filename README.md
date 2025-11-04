@@ -117,7 +117,8 @@ Each badge represents a milestone in my journey of learning and professional gro
   <summary>🧠 <strong>Artificial Intelligence (IA)</strong></summary>
 <table style="text-align: center;">
 <p align="center">
- 
+   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/b9l8r9td">
+  <img src="https://learn.microsoft.com/training/achievements/get-started-with-microsoft-365-copilot.svg" height="100" alt="Copilot"/></a>
 </p>
 </table>
 </details>
@@ -126,7 +127,26 @@ Each badge represents a milestone in my journey of learning and professional gro
   <summary>☁️ <strong>Cloud Computing</strong></summary>
 <table style="text-align: center;">
 <p align="center">
+  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/b9l8r9td">
+  <img src="https://learn.microsoft.com/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" height="100" alt="azure"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/fqzkwqkx">
+  <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg" height="100" alt="azure"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/fqzkwqkx">
+  <img src="https://learn.microsoft.com/training/achievements/azure-fundamentals-describe-azure-architecture-services.svg" height="100" alt="azure"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/hzyklea8">
+  <img src="https://learn.microsoft.com/training/achievements/researcher-cloud-security-cost-management.svg" height="100" alt="azure"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/9rnpzebu">
+  <img src="https://learn.microsoft.com/training/achievements/control-spending-manage-bills.svg" height="100" alt="azure"/></a>
+</p>
+</table>
+</details>
 
+<details>
+  <summary>🥇 <strong>Other Badges</strong></summary>
+<table style="text-align: center;">
+<p align="center">
+  <a href="https://www.credly.com/badges/5f2b6b72-5a4b-4f4d-8325-0ac2f5b834f8">
+  <img src="https://images.credly.com/size/340x340/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png" height="100" alt="Servicenow Fundamentals"/></a>
 </p>
 </table>
 </details>

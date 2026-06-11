@@ -78,13 +78,13 @@ for item in my_journey:
     <a href = https://github.com/guimanaira/santander-openacademy-python </a>
       🔴 Santander Open Academy - Python Fundamentos
        </td>
-    <td> Project involving Python programming, logic and practical exercises. </td>
+    <td> Involving Python programming, logic and practical exercises. </td>
     </tr>
      <tr>
      <td> 
     <a href = https://github.com/guimanaira/accenture-python-automacao </a>
       🟣 Accenture - Python para Análise e Automação de Dados 
-      <td> Project involving Python programming , automation and Generative AI. </td>
+      <td> Involving Python programming , automation and Generative AI. </td>
     </tr>
    
 </table>

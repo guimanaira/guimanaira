@@ -76,7 +76,7 @@ for item in my_journey:
    <tr>
      <td> 
     <a href = https://github.com/guimanaira/santander-openacademy-python </a>
-      🔴 Open Academy - Python Fundamentos
+      🔴 Santander Open Academy - Python Fundamentos
        </td>
     <td> Project involving Python programming, logic and practical exercises. </td>
     </tr>

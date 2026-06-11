@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## I'm Ariana Costa — Data Analystic, Cloud & IA Enthusiast 👩‍💻✨
+## I'm Ariana Costa — Data Analyst, Cloud & AI Enthusiast 👩‍💻✨
 
 I'm a purpose-driven professional with over 10 years of healthcare experience, now transitioning into Data Analysis. My goal is to combine hands-on expertise with data and technology to transform information into intelligent, human-centered decisions.
 I'm building skills in Excel, Power BI, and Data Analytics—focused on generating strategic insights and evidence-based solutions that drive results and create positive impact. With an analytical, collaborative, and results-oriented approach, I want to contribute to teams that value innovation, continuous learning, and digital transformation in healthcare.
@@ -76,15 +76,15 @@ for item in my_journey:
    <tr>
      <td> 
     <a href = https://github.com/guimanaira/santander-openacademy-python </a>
-      🔴 Santander Open Academy - Python Fundamentos
+      🔴 Santander Open Academy - Python Fundamentos 
        </td>
-    <td> Involving Python programming, logic and practical exercises. </td>
+    <td> Projects focused on Python programming, algorithms and problem-solving. </td>
     </tr>
      <tr>
      <td> 
     <a href = https://github.com/guimanaira/accenture-python-automacao </a>
       🟣 Accenture - Python para Análise e Automação de Dados 
-      <td> Involving Python programming , automation and Generative AI. </td>
+      <td> Projects involving Python, data automation and Generative AI applications. </td>
     </tr>
    
 </table>

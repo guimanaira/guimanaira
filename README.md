@@ -110,8 +110,8 @@ Each badge represents a milestone in my journey of learning and professional gro
   <img src="https://learn.microsoft.com/training/achievements/get-started-with-microsoft-365-copilot.svg" height="80" alt="Copilot"/></a>
   <a href="https://learn.microsoft.com/pt-br/users/arianacosta-3224/achievements/akpsusy7">
   <img src="https://learn.microsoft.com/training/achievements/generic-trophy.svg" height="80" alt="M365 Copilot"/></a>
-  <a href="https://trailhead.salesforce.com/pt-BR/users/teamtrailhead/trailmixes/quest-trailblazer-become-an-agentblazer-champion-sept-oct-2025">
-  <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" height="80" alt="agentblazer"/></a>
+  <a href="https://www.credly.com/badges/3381bfdc-22c0-452e-9fff-4ec8ebc5d5b6/public_url">
+  <img src="https://images.credly.com/size/110x110/images/772a2b31-1440-46a2-9c3c-96b8c05c5819/blob" height="80" alt="agenticaiaccenture"/></a>
 </p>
 </table>
 </details>

@@ -72,7 +72,7 @@ for item in my_journey:
     <a href = https://github.com/guimanaira/santander-openacademy-python </a>
       🔴 Santander Open Academy - Python Fundamentos 
        </td>
-    <td> Projects involving Python programming, algorithms and problem-solving. </td>
+    <td> Projects involving Python programming, algorithms and hand-on. </td>
     </tr>
      <tr>
      <td> 

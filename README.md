@@ -142,8 +142,8 @@ Each badge represents a milestone in my journey of learning and professional gro
   <summary>🥇 <strong>Other Badges</strong></summary>
 <table style="text-align: center;">
 <p align="center">
-  <a href="https://www.credly.com/badges/5f2b6b72-5a4b-4f4d-8325-0ac2f5b834f8">
-  <img src="https://images.credly.com/size/340x340/images/5a1dc59c-5961-40f6-88dd-3e6c366a3620/Credential_Badge_-_Micro-Cert_-_Welcome_to_ServiceNow.png" height="80" alt="Servicenow Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/e160b3e2-f389-4bfc-b410-4f9512206325/public_url">
+  <img src="https://images.credly.com/size/110x110/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" height="80" alt="MongoDB"/></a>
 </p>
 </table>
 </details>

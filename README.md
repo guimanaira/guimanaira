@@ -30,12 +30,6 @@ I'm also deeply interested in Data, Cloud, and Artificial Intelligence. I'm part
   <a href="https://www.mongodb.com/pt-br">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/></a>
   <img width="8"/>
-   <a href="https://aws.amazon.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices"/></a>
-  <img width="8"/>
-   <a href="https://azure.microsoft.com//">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="azure"/></a>
-  <img width="8"/>
 </div>
 
 ## 🎯 My Journey

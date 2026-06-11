@@ -71,20 +71,20 @@ for item in my_journey:
 <table style="text-align: center;">
   <tr>
     <td> Projects </td>
-    <td> Technologies </td>
+    <td> Description </td>
     </tr>
    <tr>
      <td> 
     <a href = https://github.com/guimanaira/santander-openacademy-python </a>
       🔴 Open Academy - Python Fundamentos
        </td>
-    <td> Python • Data Analysis </td>
+    <td> Projects involving Python programming, logic and practical exercises. </td>
     </tr>
      <tr>
      <td> 
     <a href = https://github.com/guimanaira/accenture-python-automacao </a>
       🟣 Accenture - Python para Análise e Automação de Dados 
-      <td> Python • Data Analysis </td>
+      <td> Projects involving Python programming , automation and Generative AI. </td>
     </tr>
    
 </table>

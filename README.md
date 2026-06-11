@@ -71,29 +71,18 @@ for item in my_journey:
 <table style="text-align: center;">
   <tr>
     <td> Projects </td>
-    <td> Resume </td>
-    <td> Skills </td>
+    <td> Description </td>
+    <td> Technologies </td>
     </tr>
    <tr>
-    <td> ♨️ Santander - Code Girls 2025 </td>
-    <td> . </td>
-    <td>   
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices"/>
-      <img width="8"/>
-    </td>
+     <td> 
+    <a href = https://github.com/guimanaira/santander-openacademy-python </a>
+      ♨️ Open Academy - Python Fundamentos
+       </td>
+    <td> Projects involving Python programming, logic and practical exercises.</td>
+    <td> Python • Data Analysis </td>
     </tr>
-    <td> <a href="https://github.com/guimanaira/Repositorio_Dados/tree/main/Bootcamp_Santander-Excel_com_IA">♨️ Santander - Excel com Inteligência Artificial</a> </td>
-    <td> Aprenda a dominar fórmulas, relatórios e automações com inteligência artificial. </td>
-    <td>
-      <img src="https://assets.dio.me/yVuc2IywUu_I8OBj82SJ759wHhy0KugEt_0YH99PD4Y/f:webp/q:80/w:84/L3NraWxscy8xOTQ5MTgwZC1jNDI0LTRlZTAtYjAxOC1mNDdiYzZiYjI3NWYucG5n" height="25" alt="excel logo"/>
-      <img src="https://assets.dio.me/ljiEbZGcF7nnbnvsX58CvHYW4MBKAgCeRY4JvH122v8/f:webp/q:80/w:84/L3NraWxscy9mMzExMGU4Zi1kMjViLTQ1MWQtOWIwMy1iZGQ2YTIyMTNjOTEucG5n" height="25" alt="copilot logo"/>
-    <img width="8"/>
-    </td>
-   <tr>
-    <td> ♨️ Universia - Fundamentos de IA Generativa </td>
-    <td> . </td>
-    <td>. </td>
-  </tr>
+   
 </table>
 
 
@@ -165,5 +154,6 @@ Additional badges will be added as I continue to advance in my studies and certi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 

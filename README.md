@@ -80,6 +80,13 @@ for item in my_journey:
       🟣 Accenture - Python para Análise e Automação de Dados 
       <td> Data analytics, process automation and AI-driven solutions. </td>
     </tr>
+    </tr>
+     <tr>
+     <td> 
+    <a href = https://github.com/guimanaira/accenture-python-automacao </a>
+      🟡 Mercado Livre - Analises Logisticas 
+      <td> Data analytics, operations process. </td>
+    </tr>
    
 </table>
 

@@ -83,7 +83,7 @@ for item in my_journey:
     </tr>
      <tr>
      <td> 
-    <a href = https://github.com/guimanaira/accenture-python-automacao </a>
+    <a href = https://github.com/guimanaira/central_eficiencia_logistica </a>
       🟡 Mercado Livre - Analises Logisticas 
       <td> Data analytics, operations process. </td>
     </tr>
